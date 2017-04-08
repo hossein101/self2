@@ -115,33 +115,11 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {315272489},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Beyond Self Bot V2.5
-An fun bot based on BDReborn
-
-》https://github.com/BeyondTeam/Self-BotV2 
-
-》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer《
-》@To0fan ➣ Developer《
-》@CiveY ➣ Developeer《
-》@MrPars ➣ Manager《
-
-》Special thanks to :
-》@Vysheng
-》@MrHalix
-》@Tele_Sudo
-》And Beyond Team Members
-
-》Our channel :
-》@BeyondTeam《
-
-》Our website :
-》http://BeyondTeam.ir
+    info_text = [[》@Montafy
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
