@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Self-BotV2
+cd $HOME/self2
 
 install() {
 	    cd tg
